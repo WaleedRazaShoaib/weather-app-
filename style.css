@@ -69,6 +69,7 @@ body {
 }
 .search-container input {
   padding: 0.7em;
+  width: 100%;
   background-color: transparent;
   border-bottom: 2px solid var(--transp-white-1);
   color: var(--white);
